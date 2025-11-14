@@ -13,6 +13,11 @@ export default {
   				'Roboto',
   				'sans-serif'
   			],
+        serif: [
+          'Georgia', 
+          'Times New Roman', 
+          'serif'
+        ],
   			display: [
   				'Cal Sans',
   				'Inter',
