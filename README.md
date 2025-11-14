@@ -2,7 +2,7 @@
 
 > A visually stunning, minimalist static blog platform designed for clarity, performance, and a delightful reading experience.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hung19091/serene-scribe)
 
 Serene Scribe is a modern, minimalist static blog application designed for an exceptional reading experience. Built to run on Cloudflare's edge network, it prioritizes performance, clarity, and visual elegance. The core philosophy is 'content-first,' achieved through a clean, single-column layout, generous white space, and impeccable typography.
 
@@ -92,7 +92,7 @@ To deploy your application, simply run the build command followed by the deploy 
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hung19091/serene-scribe)
 
 ## 🧪 Linting
 
